@@ -23,10 +23,9 @@ São responsáveis por uma página, controlando qual model usar e qual view ser�
 
 ## Tema do Projeto: Documentação para a área de Suporte em TI
 
-Pela falta de documentação de procedimentos para suporte em soluções de problemas de rotina, em atendimentos de Suporte Nível 1 utilizando acesso remoto.<br>
-Devido a falta de padrões em procedimentos de atendimento ao cliente referente a dúvidas e problemas de acessos ao usuário em atendimentos remoto e telefônico.<br>
-Mostrou-se necessário a melhoria da comunicação entre iniciantes  da área de tecnologia que buscam seu início em uma área que em geral acolhe jovens e profissionais  em transição de carreira para a área de tecnologia.Segue abaixo alguns pontos a serem trabalhados neste projeto.<br>
-Nas empresas para que as informações sejam compreendidas no todo, o correto é que se use a redundância, garantindo a integração das informações, a eficiência e a eficácia.<br>
-Ela permite o compartilhamento das ideias na empresa. A comunicação pode ser verbal ou não verbal, sendo expressada pela linguagem oral, escrita e simbólica.<br>
-Plataforma Web  utilizando os conceitos de HTML, CSS e JS, como back a linguagem Java e o banco de dados MySQL para salvar os arquivos(txt, jpge, pdf e docx).<br>
-Modelo similar a Evernote mas com especificações diferenciadas para armazenagem, busca e classificação dos SO's, aplicações e ferramentas.<br>
+Pela falta de documentação de procedimentos para suporte em soluções de problemas de rotina, em atendimentos de Suporte Nível 1, utilizando acesso remoto.<br>
+Devido a falta de padrões em procedimentos de atendimento; referente a dúvidas e problemas de acessos, ao usuário em acessos remotoe e via telefone.<br>
+Mostrou-se necessário a melhoria da comunicação entre os iniciantes  da área de tecnologia, proporcionando um ambiente mais acolhedor aos inicantes nesta area profissional ou os que estão em transição de carreira.<br>
+Na rotina dentro da empresa as informações acabam sendo repassadas somente se forem necessaŕias ao atendimento e caso não surja o assunto ela não é transmitida ou são repassadas de forma imcompleta causando problemas na padronização das informações repassadas a ideia é garantir a integração das informações, a eficiência e a eficácia.<br>
+Esse projeto quer permitir o compartilhamento das ideias dentro da empresa de forma divertida e dinâmica.<br>
+Utilizarei uma plataforma Web esboçando os conceitos de HTML, CSS e JS, como back a linguagem Java por meio do Modelo MVC.<br>
