@@ -10,12 +10,15 @@
 
 # Modelo Utilizado MVC - Model View Control
 
-O <strong>MVC</srong> separa a aplicação em 3 camadas de interação do usuário <strong>(view)</strong>, a camada de manipulação dos dados <strong>(model)</strong> e a camada de controle <strong>(controller)</strong>.
+O <strong> MVC </srong> separa a aplicação em 3 camadas de interação do usuário <strong> (view) </strong>, a camada de manipulação dos dados <strong>(model)</strong> e a camada de controle <strong> (controller) </strong>.
+
 <strong> Model </strong>
 Ele é responsável pela leitura e escrita de dados, e também de suas validações.
 <strong>View</strong>
+
 Ela apenas faz a  exibição dos dados, sendo ela por meio de um html ou xml.
 <strong>Controller</strong>
+
 São responsáveis por uma página, controlando qual model usar e qual view será mostrado ao usuário.
 
 Tema do Projeto: Documentação para a área de Suporte em TI
