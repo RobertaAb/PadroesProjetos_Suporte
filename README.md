@@ -29,3 +29,4 @@ Mostrou-se necessário a melhoria da comunicação entre os iniciantes  da área
 Na rotina dentro da empresa as informações acabam sendo repassadas somente se forem necessaŕias ao atendimento e caso não surja o assunto ela não é transmitida ou são repassadas de forma imcompleta causando problemas na padronização das informações repassadas a ideia é garantir a integração das informações, a eficiência e a eficácia.<br>
 Esse projeto quer permitir o compartilhamento das ideias dentro da empresa de forma divertida e dinâmica.<br>
 Utilizarei uma plataforma Web esboçando os conceitos de HTML, CSS e JS, como back a linguagem Java por meio do Modelo MVC.<br>
+Usei forks de https://github.com/RobertaAb/mycodeblog, https://github.com/RobertaAb/registration-login-springboot-security-thymeleaf, curso ALgaworks para entender ofuncionamento do SpringBoot.
